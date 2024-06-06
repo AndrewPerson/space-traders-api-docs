@@ -341,7 +341,7 @@
                   "properties": {
                     "data": {
                       "items": {
-                        "$ref": "../models/System.json"
+                        "$ref": "../models/SolarSystem.json"
                       },
                       "type": "array"
                     },
@@ -407,7 +407,7 @@
                   "description": "",
                   "properties": {
                     "data": {
-                      "$ref": "../models/System.json"
+                      "$ref": "../models/SolarSystem.json"
                     }
                   },
                   "required": [
